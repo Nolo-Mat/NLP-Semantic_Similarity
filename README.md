@@ -6,8 +6,7 @@ This is a simple movie recommendation system that suggests the next movie to wat
 
 1. Clone the repository:
 
-   ```shell
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/Nolo-Mat/NLP-Semantic_Similarity)>
 
 2. Install the required dependencies. It is recommended to use a virtual environment:
 
